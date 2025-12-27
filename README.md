@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, Shubheeksha here!</h1>
 A Computational Mathematics student with a keen interest in data science and analytics. Eager to apply my skills to real-world projects, I'm continuously learning and exploring new techniques in data analysis.<br>
 
-- 🌱 I’m currently learning **Data Analytics**
 
-- 📫 How to reach me:  **shubheeksha187@gmail.com**
+Reach me through:  **shubheeksha187@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
